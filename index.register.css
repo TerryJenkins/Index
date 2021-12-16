@@ -1,0 +1,25 @@
+body {
+    background-color: crimson;
+    text-align: center;
+}
+
+
+#register-div {
+    background-color: darkgrey;
+    width: 450px;
+    padding: 15px;
+}
+
+#register-div input {
+    padding: 15px;
+    margin: 15px;
+}
+
+#register-div .top-buttons {
+    text-align: right;
+    background-color: black;
+}
+
+.header1 {
+    font-size: xx-large;
+}
